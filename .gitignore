@@ -1,0 +1,9 @@
+# Visual studio Code specific stuff
+.vs
+
+# Debug/obj
+AdventOfCode/Debug
+AdventOfCode/x64
+AdventOfCode/x6
+Debug/
+x64/Debug/
